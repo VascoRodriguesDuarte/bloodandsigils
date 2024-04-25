@@ -280,4 +280,7 @@
       }
     ]
   }
+  "url": "https://github.com/VascoRodriguesDuarte/bloodandsigils",
+  "manifest": "https://raw.githubusercontent.com/VascoRodriguesDuarte/bloodandsigils/master/module.json",
+  "download": "https://github.com/VascoRodriguesDuarte/bloodandsigils/archive/refs/heads/master.zip"
 }
