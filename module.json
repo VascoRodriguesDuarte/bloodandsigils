@@ -1,0 +1,283 @@
+{
+  "id": "blood-and-sigils",
+  "title": "Blood and Sigils",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "name": "inscriber-actions",
+      "label": "Inscriber - Actions",
+      "path": "packs/inscriber-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-archetype-feats",
+      "label": "Inscriber - Archetype Feats",
+      "path": "packs/inscriber-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-class",
+      "label": "Inscriber - Class",
+      "path": "packs/inscriber-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-class-features",
+      "label": "Inscriber - Class Features",
+      "path": "packs/inscriber-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-effects",
+      "label": "Inscriber - Effects",
+      "path": "packs/inscriber-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-equipments",
+      "label": "Inscriber - Equipments",
+      "path": "packs/inscriber-equipments",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-feats",
+      "label": "Inscriber - Feats",
+      "path": "packs/inscriber-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "inscriber-journal",
+      "label": "Inscriber - Journal",
+      "path": "packs/inscriber-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-class",
+      "label": "Hemalurgist - Class",
+      "path": "packs/hemalurgist-class",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-class-features",
+      "label": "Hemalurgist - Class Features",
+      "path": "packs/hemalurgist-class-features",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-feats",
+      "label": "Hemalurgist - Feats",
+      "path": "packs/hemalurgist-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-actions",
+      "label": "Hemalurgist - Actions",
+      "path": "packs/hemalurgist-actions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-effects",
+      "label": "Hemalurgist - Effects",
+      "path": "packs/hemalurgist-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-macros",
+      "label": "Hemalurgist - Macros",
+      "path": "packs/hemalurgist-macros",
+      "type": "Macro",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-spells",
+      "label": "Hemalurgist - Spells",
+      "path": "packs/hemalurgist-spells",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-archetype-feats",
+      "label": "Hemalurgist - Archetype Feats",
+      "path": "packs/hemalurgist-archetype-feats",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "hemalurgist-journal",
+      "label": "Hemalurgist - Journal",
+      "path": "packs/hemalurgist-journal",
+      "type": "JournalEntry",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Blood and Sigils",
+      "sorting": "a",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Hemalurgist",
+          "sorting": "a",
+          "color": "#b30000",
+          "packs": [
+            "hemalurgist-actions",
+            "hemalurgist-archetype-feats",
+            "hemalurgist-class",
+            "hemalurgist-class-features",
+            "hemalurgist-effects",
+            "hemalurgist-feats",
+            "hemalurgist-journal",
+            "hemalurgist-macros",
+            "hemalurgist-spells"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Inscriber",
+          "sorting": "a",
+          "color": "#4d4dff",
+          "packs": [
+            "inscriber-actions",
+            "inscriber-archetype-feats",
+            "inscriber-class",
+            "inscriber-class-features",
+            "inscriber-effects",
+            "inscriber-equipments",
+            "inscriber-feats",
+            "inscriber-journal"
+          ],
+          "folders": []
+        }
+      ]
+    }
+  ],
+  "flags": {
+    "blood-and-sigils": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "sigil": {
+            "label": "Sigil",
+            "description": "Sigils are special actions and feats that can only be used with the Invoke Sigil action. Each sigil has its own traits that are applied only when that one is invoked, making it so that when that one is interrupted, you can still draw the others after. However, if something interrupts the Invoke Sigil action itself before you do any sigil, then you lose all your actions that were meant to invoke your sigils."
+          },
+          "combo": {
+            "label": "Combo",
+            "description": "By performing certain actions or invoking specific types of sigils in a previous round, you can greatly alter how a sigil works. After changing a sigil with a combo trait, you cannot use another action with the combo trait again for 1 hour."
+          },
+          "inscriber": {
+            "label": "Inscriber",
+            "description": "Feats and features of the inscriber class."
+          },
+          "hemalurgist-feats": {
+            "label": "Hemalurgist",
+            "description": "Feats and features of the hemalurgist class."
+          }
+        },
+        "spellTraits": {
+          "hemalurgist-spells": {
+            "label": "Hemalurgist",
+            "description": "Spells of the hemalurgist class."
+          }
+        }
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "Vasco Duarte"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system"
+      }
+    ]
+  }
+}
