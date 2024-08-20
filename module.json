@@ -1,10 +1,10 @@
 {
   "id": "blood-and-sigils",
   "title": "Blood and Sigils",
-  "version": "1.4.1",
+  "version": "2.0.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "packs": [
     {
@@ -193,13 +193,24 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "bands-conditions",
+      "label": "B&S Conditions",
+      "path": "packs/bands-conditions",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
   "packFolders": [
     {
       "name": "Blood and Sigils",
       "sorting": "a",
-      "packs": [],
+      "packs": ["bands-conditions"],
       "folders": [
         {
           "name": "Hemalurgist",
