@@ -1,24 +1,3 @@
-2024/08/20-18:05:24.007 5498 Recovering log #467
-2024/08/20-18:05:24.007 5498 Level-0 table #469: started
-2024/08/20-18:05:24.009 5498 Level-0 table #469: 4380 bytes OK
-2024/08/20-18:05:24.013 5498 Delete type=0 #467
-2024/08/20-18:05:24.013 5498 Delete type=3 #465
-2024/08/20-18:49:44.526 1430 Level-0 table #472: started
-2024/08/20-18:49:44.527 1430 Level-0 table #472: 0 bytes OK
-2024/08/20-18:49:44.527 1430 Delete type=0 #470
-2024/08/20-18:49:44.529 1430 Manual compaction at level-0 from '!items!1vOcRRbzeBYHZl92' @ 72057594037927935 : 1 .. '!items!uh7QyS04kUvHmGP8' @ 0 : 0; will stop at '!items!uh7QyS04kUvHmGP8' @ 680 : 1
-2024/08/20-18:49:44.529 1430 Compacting 2@0 + 0@1 files
-2024/08/20-18:49:44.531 1430 Generated table #473@0: 22 keys, 22521 bytes
-2024/08/20-18:49:44.531 1430 Compacted 2@0 + 0@1 files => 22521 bytes
-2024/08/20-18:49:44.532 1430 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/20-18:49:44.532 1430 Delete type=2 #466
-2024/08/20-18:49:44.532 1430 Delete type=2 #469
-2024/08/20-18:49:44.545 1430 Manual compaction at level-0 from '!items!uh7QyS04kUvHmGP8' @ 680 : 1 .. '!items!uh7QyS04kUvHmGP8' @ 0 : 0; will stop at (end)
-2024/08/20-18:49:44.545 1430 Manual compaction at level-1 from '!items!1vOcRRbzeBYHZl92' @ 72057594037927935 : 1 .. '!items!uh7QyS04kUvHmGP8' @ 0 : 0; will stop at '!items!uh7QyS04kUvHmGP8' @ 680 : 1
-2024/08/20-18:49:44.545 1430 Compacting 1@1 + 1@2 files
-2024/08/20-18:49:44.547 1430 Generated table #474@1: 22 keys, 22521 bytes
-2024/08/20-18:49:44.547 1430 Compacted 1@1 + 1@2 files => 22521 bytes
-2024/08/20-18:49:44.548 1430 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/20-18:49:44.548 1430 Delete type=2 #442
-2024/08/20-18:49:44.548 1430 Delete type=2 #473
-2024/08/20-18:49:44.553 1430 Manual compaction at level-1 from '!items!uh7QyS04kUvHmGP8' @ 680 : 1 .. '!items!uh7QyS04kUvHmGP8' @ 0 : 0; will stop at (end)
+2024/08/20-19:20:06.545 1020 Recovering log #471
+2024/08/20-19:20:06.548 1020 Delete type=0 #471
+2024/08/20-19:20:06.549 1020 Delete type=3 #468
