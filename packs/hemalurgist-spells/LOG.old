@@ -1,25 +1,3 @@
-2024/08/20-18:05:23.926 23d8 Recovering log #440
-2024/08/20-18:05:23.927 23d8 Level-0 table #442: started
-2024/08/20-18:05:23.930 23d8 Level-0 table #442: 66186 bytes OK
-2024/08/20-18:05:23.934 23d8 Delete type=0 #440
-2024/08/20-18:05:23.934 23d8 Delete type=3 #438
-2024/08/20-18:49:44.515 1430 Level-0 table #445: started
-2024/08/20-18:49:44.515 1430 Level-0 table #445: 0 bytes OK
-2024/08/20-18:49:44.516 1430 Delete type=0 #443
-2024/08/20-18:49:44.521 1430 Manual compaction at level-0 from '!items!4p0CfN4Bj1eJUryL' @ 72057594037927935 : 1 .. '!items!z7Z9pcEzK2p3Yz8M' @ 0 : 0; will stop at '!items!iC1yKQiWhEN94hDp' @ 729 : 1
-2024/08/20-18:49:44.522 1430 Compacting 3@0 + 0@1 files
-2024/08/20-18:49:44.524 1430 Generated table #446@0: 20 keys, 28711 bytes
-2024/08/20-18:49:44.525 1430 Compacted 3@0 + 0@1 files => 28711 bytes
-2024/08/20-18:49:44.525 1430 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/08/20-18:49:44.526 1430 Delete type=2 #428
-2024/08/20-18:49:44.526 1430 Delete type=2 #439
-2024/08/20-18:49:44.526 1430 Delete type=2 #442
-2024/08/20-18:49:44.529 1430 Manual compaction at level-0 from '!items!iC1yKQiWhEN94hDp' @ 729 : 1 .. '!items!z7Z9pcEzK2p3Yz8M' @ 0 : 0; will stop at (end)
-2024/08/20-18:49:44.541 1430 Manual compaction at level-1 from '!items!4p0CfN4Bj1eJUryL' @ 72057594037927935 : 1 .. '!items!z7Z9pcEzK2p3Yz8M' @ 0 : 0; will stop at '!items!z7Z9pcEzK2p3Yz8M' @ 745 : 1
-2024/08/20-18:49:44.541 1430 Compacting 1@1 + 1@2 files
-2024/08/20-18:49:44.544 1430 Generated table #447@1: 20 keys, 28711 bytes
-2024/08/20-18:49:44.544 1430 Compacted 1@1 + 1@2 files => 28711 bytes
-2024/08/20-18:49:44.544 1430 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/08/20-18:49:44.544 1430 Delete type=2 #404
-2024/08/20-18:49:44.544 1430 Delete type=2 #446
-2024/08/20-18:49:44.545 1430 Manual compaction at level-1 from '!items!z7Z9pcEzK2p3Yz8M' @ 745 : 1 .. '!items!z7Z9pcEzK2p3Yz8M' @ 0 : 0; will stop at (end)
+2024/08/20-19:20:04.892 2f74 Recovering log #444
+2024/08/20-19:20:04.895 2f74 Delete type=0 #444
+2024/08/20-19:20:04.896 2f74 Delete type=3 #441
