@@ -1,3 +1,5 @@
-2024/10/28-00:07:20.835 495c Recovering log #487
-2024/10/28-00:07:20.839 495c Delete type=0 #487
-2024/10/28-00:07:20.839 495c Delete type=3 #486
+2025/01/24-01:38:44.742 4ebc Recovering log #491
+2025/01/24-01:38:44.742 4ebc Level-0 table #493: started
+2025/01/24-01:38:44.744 4ebc Level-0 table #493: 4346 bytes OK
+2025/01/24-01:38:44.747 4ebc Delete type=0 #491
+2025/01/24-01:38:44.747 4ebc Delete type=3 #490
