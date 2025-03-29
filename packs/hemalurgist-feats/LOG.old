@@ -1,5 +1,3 @@
-2025/01/24-01:38:44.742 4ebc Recovering log #491
-2025/01/24-01:38:44.742 4ebc Level-0 table #493: started
-2025/01/24-01:38:44.744 4ebc Level-0 table #493: 4346 bytes OK
-2025/01/24-01:38:44.747 4ebc Delete type=0 #491
-2025/01/24-01:38:44.747 4ebc Delete type=3 #490
+2025/02/21-23:33:49.587 1fa8 Recovering log #494
+2025/02/21-23:33:49.590 1fa8 Delete type=0 #494
+2025/02/21-23:33:49.590 1fa8 Delete type=3 #492
