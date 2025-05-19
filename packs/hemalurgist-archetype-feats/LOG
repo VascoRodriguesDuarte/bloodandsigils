@@ -1,3 +1,8 @@
-2025/03/29-18:02:20.436 4a0c Recovering log #454
-2025/03/29-18:02:20.439 4a0c Delete type=0 #454
-2025/03/29-18:02:20.439 4a0c Delete type=3 #453
+2025/05/19-23:13:10.260 1338 Recovering log #456
+2025/05/19-23:13:10.263 1338 Delete type=0 #456
+2025/05/19-23:13:10.263 1338 Delete type=3 #455
+2025/05/19-23:50:38.345 2dc4 Level-0 table #460: started
+2025/05/19-23:50:38.345 2dc4 Level-0 table #460: 0 bytes OK
+2025/05/19-23:50:38.346 2dc4 Delete type=0 #458
+2025/05/19-23:50:38.348 2dc4 Manual compaction at level-0 from '!items!6Qo6CgiXpj6MEboL' @ 72057594037927935 : 1 .. '!items!ze6BA8WWUZ1nP6A6' @ 0 : 0; will stop at (end)
+2025/05/19-23:50:38.351 2dc4 Manual compaction at level-1 from '!items!6Qo6CgiXpj6MEboL' @ 72057594037927935 : 1 .. '!items!ze6BA8WWUZ1nP6A6' @ 0 : 0; will stop at (end)
